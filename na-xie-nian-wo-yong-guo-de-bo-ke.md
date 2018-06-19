@@ -51,7 +51,7 @@
 
 ### 于是，试试GitBook吧
 
-正好最近想写编程通识，用到了GitBook，于是又激起了我写博客的欲望。
+正好最近想写[编程通识](https://program.gitbook.io/index/)，用到了GitBook，于是又激起了我写博客的欲望。
 
 和知乎对比，一静一动，编辑方便（Markdown），支持多级目录，内容又可以同步到GitHub上，简直完美。
 
