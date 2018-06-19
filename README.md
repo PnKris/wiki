@@ -1,4 +1,6 @@
-# XUJINKAI.net
+---
+description: 贵在坚持✊
+---
 
-[http://xujinkai.net/](http://xujinkai.net/)
+# XUJINKAI的\(又一个\)博客
 
