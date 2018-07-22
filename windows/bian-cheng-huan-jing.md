@@ -12,9 +12,11 @@ LFS [https://git-lfs.github.com/](https://git-lfs.github.com/)
 
 MobaXterm [https://mobaxterm.mobatek.net/download.html](https://mobaxterm.mobatek.net/download.html)
 
-## Visual Studio
+## .Net
 
 Visual Studio [https://visualstudio.microsoft.com/zh-hans/downloads/](https://visualstudio.microsoft.com/zh-hans/downloads/)
+
+XAML Controls Gallery [https://www.microsoft.com/en-us/p/xaml-controls-gallery/9msvh128x2zt](https://www.microsoft.com/en-us/p/xaml-controls-gallery/9msvh128x2zt)
 
 ## Github Pages
 

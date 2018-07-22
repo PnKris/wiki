@@ -20,9 +20,11 @@ QQ\(商店\) [https://www.microsoft.com/zh-cn/p/qq/9wzdncrfj1ps](https://www.mic
 
 OneQuick 热键工具 [微软商店](https://www.microsoft.com/store/apps/9pfn5k6qxt46) 官网 [https://onequick.org/](https://onequick.org/)
 
+Clipboards 剪贴板 [微软商店](https://www.microsoft.com/store/apps/9ND6WDNB4FW7) [https://github.com/XUJINKAI/Clipboards](https://github.com/XUJINKAI/Clipboards)
+
 Snipaste 截图 [微软商店](https://www.microsoft.com/store/apps/9p1wxpkb68kx) [https://www.snipaste.com/](https://www.snipaste.com/)
 
-Clipboards 剪贴板 [微软商店](https://www.microsoft.com/store/apps/9ND6WDNB4FW7) [https://github.com/XUJINKAI/Clipboards](https://github.com/XUJINKAI/Clipboards)
+Listary [http://www.listary.com/](http://www.listary.com/)
 
 ## 文档
 
