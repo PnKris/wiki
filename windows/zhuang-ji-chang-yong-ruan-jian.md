@@ -26,7 +26,7 @@ Clipboards 剪贴板 [微软商店](https://www.microsoft.com/store/apps/9ND6WDN
 
 ## 文档
 
-Office 365 \(Store\) [https://www.microsoft.com/en-us/p/office-365-home/cfq7ttc0k5dm](https://www.microsoft.com/en-us/p/office-365-home/cfq7ttc0k5dm)
+Office 365 [https://stores.office.com/myaccount/home.aspx\#install](https://stores.office.com/myaccount/home.aspx#install)
 
 PDF Reader [https://get.adobe.com/cn/reader/](https://get.adobe.com/cn/reader/)
 

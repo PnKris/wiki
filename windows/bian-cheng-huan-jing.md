@@ -8,6 +8,10 @@ Sourcetree [https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/)
 
 LFS [https://git-lfs.github.com/](https://git-lfs.github.com/)
 
+## Server
+
+MobaXterm [https://mobaxterm.mobatek.net/download.html](https://mobaxterm.mobatek.net/download.html)
+
 ## Visual Studio
 
 Visual Studio [https://visualstudio.microsoft.com/zh-hans/downloads/](https://visualstudio.microsoft.com/zh-hans/downloads/)
