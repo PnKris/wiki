@@ -10,6 +10,12 @@ WinRAR [https://www.rarlab.com/download.htm](https://www.rarlab.com/download.htm
 
 Potplayer [https://potplayer.daum.net/](https://potplayer.daum.net/)
 
+## 社交
+
+微信 [https://weixin.qq.com/cgi-bin/readtemplate?t=win\_weixin](https://weixin.qq.com/cgi-bin/readtemplate?t=win_weixin)
+
+QQ\(商店\) [https://www.microsoft.com/zh-cn/p/qq/9wzdncrfj1ps](https://www.microsoft.com/zh-cn/p/qq/9wzdncrfj1ps)
+
 ## 小工具
 
 OneQuick 热键工具 [微软商店](https://www.microsoft.com/store/apps/9pfn5k6qxt46) 官网 [https://onequick.org/](https://onequick.org/)
@@ -25,10 +31,4 @@ Office 365 \(Store\) [https://www.microsoft.com/en-us/p/office-365-home/cfq7ttc0
 PDF Reader [https://get.adobe.com/cn/reader/](https://get.adobe.com/cn/reader/)
 
 Sublime Text 3 [https://www.sublimetext.com/](https://www.sublimetext.com/)
-
-## 代码
-
-Sourcetree [https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/)
-
-Visual Studio [https://visualstudio.microsoft.com/zh-hans/downloads/](https://visualstudio.microsoft.com/zh-hans/downloads/)
 
