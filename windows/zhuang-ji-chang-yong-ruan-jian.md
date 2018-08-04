@@ -32,5 +32,3 @@ Office 365 [https://stores.office.com/myaccount/home.aspx\#install](https://stor
 
 PDF Reader [https://get.adobe.com/cn/reader/](https://get.adobe.com/cn/reader/)
 
-Sublime Text 3 [https://www.sublimetext.com/](https://www.sublimetext.com/)
-
